@@ -18,12 +18,22 @@ Here are some ideas to get you started:
 -> I am also a People Person. <br>
 -> I am B.A. in Music from Prayag Sangeet Samiti, Allahabad. <br>
 
+-> Link to my blog:- https://blog.noobarmy.org/tryhackme-psycho-break-write-up/
+
 <div align="center">
-<a href="https://twitter.com/govind030303">
-  <img align="middle" width="40px" src="https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_white-blue.png"/>
+<a href="https://twitter.com/govind030303" target="_blank">
+  <img align="middle" width="50px" src="https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_white-blue.png" >
 </a>
 
-<a href="https://discordapp.com/users/754926015838552174">
-  <img align="middle" width="40px" src="https://th.bing.com/th/id/OIP.b_odCUAXTW3u0sdpV6craQHaHM?pid=ImgDet&w=1059&h=1029&rs=1">
+<a href="https://discordapp.com/users/754926015838552174" target="_blank">
+  <img align="middle" width="50px" src="https://th.bing.com/th/id/OIP.b_odCUAXTW3u0sdpV6craQHaHM?pid=ImgDet&w=1059&h=1029&rs=1">
+</a>
+
+<a href="https://www.linkedin.com/in/govind03/" target="_blank">
+  <img align="middle" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png">
+</a>
+
+<a href="https://tryhackme.com/p/PH03N1X03" target="_blank">
+  <img align="middle" width="50px" src="https://assets.tryhackme.com/img/favicon.png">
 </a>
 <br>
