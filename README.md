@@ -1,4 +1,3 @@
-# Hi there 👋
 
 <!--
 **govind030303/govind030303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
