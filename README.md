@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <br>
 
 -> Currently pursuing B. Tech. in Computer Science and Engineering from Lovely Professional University. <br>
--> Community Manager at Coding Minutes. Programmer & Developer <br>
+-> Community Manager at Coding Minutes<br>
 -> Grasp in Python, Java and SQL. <br>
 -> Areas of Interest include Computer Systems Security, Network Security, Ethical Hacking, Linux, Shell Scripting, Cloud Computing, Android Application Development.  <br>
 -> I am a Dedicated Worker, Self-Learner, Team Player, Multitasker, Persistent and Incredibly Patient Person. <br>
