@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Govind Gupta</h1>
 <h3 align="center">Ethical Hacker, Security Researcher, Programmer & Developer</h3>
 
+<br>
+
 -> Currently pursuing B. Tech. in Computer Science and Engineering from Lovely Professional University. <br>
 -> Community Manager at Coding Minutes. Programmer & Developer <br>
 -> Grasp in Python, Java and SQL. <br>
