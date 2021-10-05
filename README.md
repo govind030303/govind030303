@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 -> Link to my blog:- https://blog.noobarmy.org/tryhackme-psycho-break-write-up/
 
+<br>
+
 <div align="center">
 <a href="https://twitter.com/govind030303" target="_blank" rel="noopener noreferrer">
   <img align="middle" width="50px" src="https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_white-blue.png" >
