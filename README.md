@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -> I am also a People Person. <br>
 -> I am B.A. in Music from Prayag Sangeet Samiti, Allahabad. <br>
 
--> Link to my blog:- https://blog.noobarmy.org/tryhackme-psycho-break-write-up/
+-> Link to my blog:- <a href="https://blog.noobarmy.org/tryhackme-psycho-break-write-up/"> TryHackMe | Psycho-Break Room </a>
 
 <br>
 
