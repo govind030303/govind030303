@@ -37,6 +37,15 @@ Here are some ideas to get you started:
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
+</div>
+
+<br>
+
 <div align="center">
 <a href="https://twitter.com/govind030303" target="_blank" rel="noopener noreferrer">
   <img align="middle" width="50px" src="https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_white-blue.png" >
@@ -55,8 +64,6 @@ Here are some ideas to get you started:
 </a>
 
 <br>
-
-<img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
 
 </div>
 <br>
