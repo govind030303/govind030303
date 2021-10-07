@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
-</p>
 
 <div align="center">
 
@@ -58,3 +54,9 @@ Here are some ideas to get you started:
   <img align="middle" width="50px" src="https://assets.tryhackme.com/img/favicon.png">
 </a>
 <br>
+</div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
+</p>
