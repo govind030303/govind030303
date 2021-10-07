@@ -27,18 +27,13 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
 </p>
 
-<br>
-
-<div align="center>
 
 ![Govind's Github Stats](https://github-readme-stats.vercel.app/api?username=govind030303&show_icons=true&theme=synthwave)
 
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govind030303&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
 <div align="center">
 <a href="https://twitter.com/govind030303" target="_blank" rel="noopener noreferrer">
