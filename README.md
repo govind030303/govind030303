@@ -58,6 +58,10 @@ Here are some ideas to get you started:
 
 <br>
 
+<img align="middle" src="https://discord.c99.nl/widget/theme-3/625640024335056897.png">
+
+<br>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
