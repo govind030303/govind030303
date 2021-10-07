@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 <hr>
 
 <div align="center">
+<img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
+</div>
+
+<hr>
+
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=govind030303&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&fire=DB8C2F&stroke=DBDD13&dates=2BA6DD&sideLabels=FF2CE8&currStreakLabel=DD17DB&sideNums=DCDD22&border=46FFC9FB&currStreakNum=22DD7B)](https://git.io/streak-stats)
 
@@ -36,15 +42,9 @@ Here are some ideas to get you started:
 
 </div>
 
-<br>
 
 <hr>
 
-<div align="center">
-<img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
-</div>
-
-<hr>
 
 <div align="center">
 <a href="https://twitter.com/govind030303" target="_blank" rel="noopener noreferrer">
