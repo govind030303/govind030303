@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 -> I am a Dedicated Worker, Self-Learner, Team Player, Multitasker, Persistent and Incredibly Patient Person. <br>
 -> I am also a People Person. <br>
 -> I am B.A. in Music from Prayag Sangeet Samiti, Allahabad. <br>
-
 -> Link to my blog:- <a href="https://blog.noobarmy.org/tryhackme-psycho-break-write-up/"> TryHackMe | Psycho-Break Room </a>
+
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p> -->
+
+
+![Govind's Github Stats](https://github-readme-stats.vercel.app/api?username=govind030303)
 
 <br>
 
