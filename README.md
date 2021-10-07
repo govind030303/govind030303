@@ -28,10 +28,12 @@ Here are some ideas to get you started:
 </p> -->
 
 
-![Govind's Github Stats](https://github-readme-stats.vercel.app/api?username=govind030303)
-
+![Govind's Github Stats](https://github-readme-stats.vercel.app/api?username=govind030303&show_icons=true&theme=synthwave)
 
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govind030303)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
 <a href="https://twitter.com/govind030303" target="_blank" rel="noopener noreferrer">
