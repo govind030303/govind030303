@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<hr>
+
 
 <div align="center">
 
@@ -39,12 +41,16 @@ Here are some ideas to get you started:
 
 <br>
 
+<hr>
+
 <div align="center">
 
 <img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
 </div>
 
 <br>
+
+<hr>
 
 <div align="center">
 <a href="https://twitter.com/govind030303" target="_blank" rel="noopener noreferrer">
@@ -66,6 +72,7 @@ Here are some ideas to get you started:
 <br>
 
 </div>
+
 <br>
 
 <p align="center"> 
