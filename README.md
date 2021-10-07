@@ -53,13 +53,12 @@ Here are some ideas to get you started:
 <a href="https://tryhackme.com/p/PH03N1X03" target="_blank" rel="noopener noreferrer">
   <img align="middle" width="50px" src="https://assets.tryhackme.com/img/favicon.png">
 </a>
-<br>
-</div>
 
 <br>
 
 <img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
 
+</div>
 <br>
 
 <p align="center"> 
