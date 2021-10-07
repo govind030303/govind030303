@@ -41,11 +41,8 @@ Here are some ideas to get you started:
 <hr>
 
 <div align="center">
-
 <img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
 </div>
-
-<br>
 
 <hr>
 
