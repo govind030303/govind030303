@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p> -->
 
-<p align="center">
+
 ![Govind's Github Stats](https://github-readme-stats.vercel.app/api?username=govind030303)
-</p>
+
 
 <br>
 
