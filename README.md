@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- <p align="center"> 
+<p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p> -->
+  <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
+</p>
 
 
 ![Govind's Github Stats](https://github-readme-stats.vercel.app/api?username=govind030303&show_icons=true&theme=synthwave)
