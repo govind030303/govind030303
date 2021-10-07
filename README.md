@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=govind030303&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&fire=DB8C2F&stroke=DBDD13&dates=2BA6DD&sideLabels=FF2CE8&currStreakLabel=DD17DB&sideNums=DCDD22&border=46FFC9FB&currStreakNum=22DD7B)](https://git.io/streak-stats)
+
 ![Govind's Github Stats](https://github-readme-stats.vercel.app/api?username=govind030303&show_icons=true&theme=synthwave)
 
 <br>
