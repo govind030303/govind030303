@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:-
 <a href="https://twitter.com/govind030303" target="_blank" rel="noopener noreferrer">
-  <img align="middle" width="50px" src="https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_white-blue.png" >
+  <img align="middle" width="50px" src="https://th.bing.com/th/id/OIP.WlVEYN86Ndj4KZiGf4zvCAHaHa?pid=ImgDet&rs=1" >
 </a>
 
 <a href="https://discordapp.com/users/754926015838552174" target="_blank" rel="noopener noreferrer">
