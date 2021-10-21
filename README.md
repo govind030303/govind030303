@@ -71,15 +71,13 @@ Here are some ideas to get you started:
 <a href="https://tryhackme.com/p/PH03N1X03" target="_blank" rel="noopener noreferrer">
   <img align="middle" width="50px" src="https://assets.tryhackme.com/img/favicon.png">
 </a>
-
 <br>
-
 </div>
 
 <br>
  
+<div align='center'>
 <h3 align='center'>Visitors Count</h3>  
 <br>
-<p align='center'>
   <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
-</p>
+</div>
