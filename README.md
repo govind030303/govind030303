@@ -78,7 +78,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center"> 
-  Visitor count<br>
+<p align='center'> 
+<h3 align='center'>Visitors Count</h3>  
+<br>
   <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
 </p>
