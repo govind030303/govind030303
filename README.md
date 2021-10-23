@@ -10,15 +10,15 @@ Here are some ideas to get you started:
 
 <br>
 
--> Currently pursuing B. Tech. in Computer Science and Engineering from Lovely Professional University. <br>
--> Community Manager at Coding Minutes<br>
--> Grasp in Python, Java and SQL. <br>
--> Areas of Interest include Computer Systems Security, Network Security, Ethical Hacking, Linux, Shell Scripting, Cloud Computing, &emsp;&nbsp;Android Application Development.  <br>
--> Dedicated Worker, Self-Learner, Team Player, Multitasker, Persistent and Incredibly Patient Person. <br>
--> I am also a People Person. <br>
--> I am B.A. in Music from Prayag Sangeet Samiti, Allahabad. <br>
+&rArr; Currently pursuing B. Tech. in Computer Science and Engineering from Lovely Professional University. <br>
+&rArr; Community Manager at Coding Minutes<br>
+&rArr; Grasp in Python, Java and SQL. <br>
+&rArr; Areas of Interest include Computer Systems Security, Network Security, Ethical Hacking, Linux, Shell Scripting, Cloud Computing, &emsp;&nbsp;Android Application Development.  <br>
+&rArr; Dedicated Worker, Self-Learner, Team Player, Multitasker, Persistent and Incredibly Patient Person. <br>
+&rArr; I am also a People Person. <br>
+&rArr; I am B.A. in Music from Prayag Sangeet Samiti, Allahabad. <br>
 
--> Link to my blog:- <a href="https://blog.noobarmy.org/tryhackme-psycho-break-write-up/"> TryHackMe | Psycho-Break Room </a>
+&rArr; Link to my blog:- <a href="https://blog.noobarmy.org/tryhackme-psycho-break-write-up/"> TryHackMe | Psycho-Break Room </a>
 
 <hr>
 
