@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 
 &#8620; Link to my blog:- <a href="https://blog.noobarmy.org/tryhackme-psycho-break-write-up/"> TryHackMe | Psycho-Break Room </a>
 
+<<<<<<< HEAD
 <hr style="width:50%">
 
+=======
+<hr>
+>>>>>>> parent of bbb1100 (hr tag edited)
 
 <div align="center">
 <img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
