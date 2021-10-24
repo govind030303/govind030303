@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 &#8620; Link to my blog:- <a href="https://blog.noobarmy.org/tryhackme-psycho-break-write-up/"> TryHackMe | Psycho-Break Room </a>
 
-<hr style="width:50%;text-align:left;margin-left:0">
+<hr style="width:50%">
+
 
 <div align="center">
 <img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
