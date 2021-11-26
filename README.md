@@ -5,8 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-<h1 align="center">Hi 👋, I'm Govind Gupta</h1>
-<h3 align="center">Ethical Hacker, Security Researcher, Programmer & Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2328D7CF&size=40&multiline=true&width=1000&height=200&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta;Ethical+Hacker%2C+Security+Researcher%2C;Programmer+%26+Developer)](https://git.io/typing-svg)
 
 <br>
 
