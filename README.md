@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 &#8620; Currently pursuing B. Tech. in Computer Science and Engineering from Lovely Professional University. <br>
 &#8620; Community Manager at Coding Minutes<br>
 &#8620; Grasp in Python, Java and SQL. <br>
-&#8620; Areas of Interest include Computer Systems Security, Network Security, Ethical Hacking, Linux, Shell Scripting, Cloud Computing, &emsp;&nbsp;Android Application Development.  <br>
+&#8620; Areas of Interest include Computer Systems Security, Cyber Security, Network Security, Ethical Hacking, Linux, Shell Scripting, Cloud Computing, &emsp;&nbsp;Android Application Development.  <br>
 &#8620; Dedicated Worker, Self-Learner, Team Player, Multitasker, Persistent and Incredibly Patient Person. <br>
 &#8620; I am also a People Person. <br>
 &#8620; I am B.A. in Music from Prayag Sangeet Samiti, Allahabad. <br>
