@@ -5,7 +5,17 @@
 Here are some ideas to get you started:
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&multiline=true&width=1000&height=200&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;Community+Lead+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher%2C;Programmer+%26+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=3500&pause=1000&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X%22;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher%2C;Programmer+%26+Developer)](https://git.io/typing-svg)
+
+
+<!-- 
+
+
+HTML Code of Typing SVG
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=3500&pause=1000&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X%22;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher%2C;Programmer+%26+Developer" alt="Typing SVG" /></a> -->
+
+
 
 <br>
 
