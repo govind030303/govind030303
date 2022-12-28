@@ -20,15 +20,15 @@ HTML Code of Typing SVG
 <br>
 
 **&#8620; A Third Year Undergrad with major in Computer Science and Engineering from Lovely Professional University** <br>
-&#8620; **Head of Community at Coding Minutes**<br>
-&#8620; **GATE Aspirant**<br>
-&#8620; **Grasp in Core Computer Science Subjects like Operating System, Computer Networks, Database Management System, Theory of      Computation, Compiler Design and I know C++, Python, Java and SQL**<br>
-&#8620; **Areas of Interest include Computer Systems Security, Cyber Security, Network Security, Ethical Hacking, Linux, Shell Scripting, DevOps, Cloud Computing**  <br>
-&#8620; **Dedicated Worker, Self-Learner, Team Player, Multitasker, Persistent and Incredibly Patient Person** <br>
-&#8620; **I am also a People Person** <br>
-&#8620; **I am B.A. in Music from Prayag Sangeet Samiti, Allahabad** <br>
+**&#8620; Head of Community at Coding Minutes**<br>
+**&#8620; GATE Aspirant**<br>
+**&#8620; Grasp in Core Computer Science Subjects like Operating System, Computer Networks, Database Management System, Theory of      Computation, Compiler Design and I know C++, Python, Java and SQL**<br>
+**&#8620; Areas of Interest include Computer Systems Security, Cyber Security, Network Security, Ethical Hacking, Linux, Shell Scripting, DevOps, Cloud Computing**  <br>
+**&#8620; Dedicated Worker, Self-Learner, Team Player, Multitasker, Persistent and Incredibly Patient Person** <br>
+**&#8620; I am also a People Person** <br>
+**&#8620; I am B.A. in Music from Prayag Sangeet Samiti, Allahabad** <br>
 
-&#8620; Link to my blog:- <a href="https://blog.noobarmy.org/tryhackme-psycho-break-write-up/"> TryHackMe | Psycho-Break Room Write-Up </a>
+**&#8620; Link to my blog:- <a href="https://blog.noobarmy.org/tryhackme-psycho-break-write-up/"> TryHackMe | Psycho-Break Room Write-Up </a>**
 
 <hr>
 
