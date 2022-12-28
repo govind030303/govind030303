@@ -19,8 +19,8 @@ HTML Code of Typing SVG
 
 <br>
 
-&#8620; A Sophomore with B. Tech. in Computer Science and Engineering from Lovely Professional University. <br>
-&#8620; Community Lead and Front-End Web Developer at Coding Minutes<br>
+&#8620; A Third Year Undergraduate with major in Computer Science and Engineering from Lovely Professional University. <br>
+&#8620; Head of Community and Front-End Web Developer at Coding Minutes<br>
 &#8620; GATE Aspirant<br>
 &#8620; Grasp in Core Computer Science Subjects like OS, CN, DBMS, TOC, CD and I know C++, Python, Java and SQL<br>
 &#8620; Areas of Interest include Computer Systems Security, Cyber Security, Network Security, Ethical Hacking, Linux, Shell Scripting, Cloud &nbsp; &nbsp; Computing, Android Application Development.  <br>
