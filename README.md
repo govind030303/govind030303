@@ -19,7 +19,7 @@ HTML Code of Typing SVG
 
 <br>
 
-**&#8620; A Third Year Undergrad with major in Computer Science and Engineering from Lovely Professional University** <br>
+**&#8620; A Final Year Undergrad with major in Computer Science and Engineering from Lovely Professional University** <br>
 **&#8620; Head of Community at Coding Minutes** *^____^*<br>
 **&#8620; I am a GATE Aspirant with Grasp in Core Computer Science Subjects like Operating System, Computer Networks, Computer Organization and Architecture, Database Management System, Theory of Computation, Compiler Design and I know C++, Python, Java and SQL** 📖 <br>
 **&#8620; Areas of Interest include System Architecture, Computer Systems Security, Cyber Security, Network Security, Ethical Hacking, Linux, Shell Scripting, DevOps, Cloud Computing** 💻 <br>
