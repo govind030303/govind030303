@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=3500&pause=1000&color=34FFFD&center=true&vCenter=true&multiline=true&random=false&width=750&height=255&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;Top+6%25+Ranker+in+GATE+CS+2024;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher;Programmer+%26+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=4000&pause=1200&color=34FFFD&center=true&vCenter=true&multiline=true&random=false&width=750&height=255&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;Top+6%25+Ranker+in+GATE+CS+2024;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher;Programmer+%26+Developer)](https://git.io/typing-svg)
 
 
 <!-- 
@@ -19,7 +19,7 @@ HTML Code of Typing SVG
 
 <br>
 
-**&#8620; Top 5% Ranker in GATE CS 2024 with an AIR of 7384 (Out of 123967 appeared** <br>
+**&#8620; Top 6% Ranker in GATE CS 2024 with an AIR of 7384 (Out of 123967 appeared) and GATE Score of 463** <br>
 **&#8620; A Final Year Undergrad with major in Computer Science and Engineering from Lovely Professional University** <br>
 **&#8620; Head of Community at Coding Minutes and LEPSES** *^____^*<br>
 **&#8620; I am a GATE Aspirant with Grasp in Core Computer Science Subjects like Operating System, Computer Networks, Computer Organization and Architecture, Database Management System, Theory of Computation, Compiler Design and I know C++, Python, Java and SQL** 📖 <br>
