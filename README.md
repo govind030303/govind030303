@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=3500&pause=1000&color=34FFFD&center=true&vCenter=true&multiline=true&width=750&height=230&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher%2C;Programmer+%26+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=40&duration=3500&pause=1000&color=34FFFD&center=true&vCenter=true&multiline=true&random=false&width=750&height=255&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;Top+6%25+Ranker+in+GATE+CS+2024;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher;Programmer+%26+Developer)](https://git.io/typing-svg)
 
 
 <!-- 
