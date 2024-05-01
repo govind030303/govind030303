@@ -19,6 +19,7 @@ HTML Code of Typing SVG
 
 <br>
 
+**&#8620; Top 5% Ranker in GATE CS 2024 with an AIR of 7384 (Out of 123967 appeared** <br>
 **&#8620; A Final Year Undergrad with major in Computer Science and Engineering from Lovely Professional University** <br>
 **&#8620; Head of Community at Coding Minutes and LEPSES** *^____^*<br>
 **&#8620; I am a GATE Aspirant with Grasp in Core Computer Science Subjects like Operating System, Computer Networks, Computer Organization and Architecture, Database Management System, Theory of Computation, Compiler Design and I know C++, Python, Java and SQL** 📖 <br>
