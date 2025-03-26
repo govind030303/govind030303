@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 HTML Code of Typing SVG
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3500&pause=1100&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hello%F0%9F%91%8B+%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;AIR+-+460+in+GATE+CS+2025;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher;Programmer+%26+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3500&pause=1100&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hello%F0%9F%91%8B+%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;All+India+Rank+-+460+in+GATE+CS+2025;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher;Programmer+%26+Developer" alt="Typing SVG" /></a>
 
  -->
 
