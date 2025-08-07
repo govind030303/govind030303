@@ -5,15 +5,14 @@
 Here are some ideas to get you started:
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3500&pause=1100&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hello%F0%9F%91%8B+%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;All+India+Rank+-+460+in+GATE+CS+2025;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher;Programmer+%26+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3500&pause=1100&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;M.Tech.+CSE+student+at+IIT+Kanpur;All+India+Rank+-+460+in+GATE+CS+2025;Systems+%26+Security+Enthusiast)](https://git.io/typing-svg)
 
 <!-- 
 
 
 HTML Code of Typing SVG
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3500&pause=1100&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hello%F0%9F%91%8B+%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;All+India+Rank+-+460+in+GATE+CS+2025;Head+of+Community+at+Coding+Minutes;Ethical+Hacker%2C+Security+Researcher;Programmer+%26+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3500&pause=1100&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;M.Tech.+CSE+student+at+IIT+Kanpur;All+India+Rank+-+460+in+GATE+CS+2025;Systems+%26+Security+Enthusiast" alt="Typing SVG" /></a>
 
  -->
 
@@ -21,10 +20,10 @@ HTML Code of Typing SVG
 
 <br>
 
+**&#8620; M.Tech. CSE - IIT Kanpur** <br>
 **&#8620; All India Rank - 460 in GATE CS 2025 with a score of 777 out of 1000** <br>
-**&#8620; Graduated with major in Computer Science and Engineering from Lovely Professional University** <br>
 **&#8620; Head of Community at Coding Minutes and LEPSES** *^____^*<br>
-**&#8620; I am a GATE Aspirant with Grasp in Core Computer Science Subjects like Operating System, Computer Networks, Computer Organization and Architecture, Database Management System, Theory of Computation, Compiler Design and I know C++, Python, Java and SQL** 📖 <br>
+**&#8620; Student with Grasp in Core Computer Science Subjects like Operating System, Computer Networks, Computer Organization and Architecture, Database Management System, Theory of Computation, Compiler Design and I know C++, Python, Java and SQL** 📖 <br>
 **&#8620; Areas of Interest include System Architecture, Computer Systems Security, Cyber Security, Network Security, Ethical Hacking, Linux, Shell Scripting, DevOps, Cloud Computing** 💻 <br>
 **&#8620; Dedicated Worker, Self-Learner, Team Player, Multitasker, Persistent and Incredibly Patient Person** <br>
 **&#8620; I am also a People Person** 🗣️<br>
