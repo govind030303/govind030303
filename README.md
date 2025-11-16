@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3500&pause=1100&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;M.Tech.+CSE+student+at+IIT+Kanpur;All+India+Rank+-+460+in+GATE+CS+2025;Systems+%26+Security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=45&duration=3500&pause=1100&color=34FFFD&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hello%F0%9F%91%8B%2C+I+am+Govind+Gupta+aka+%22_PH03N1X_%22;M.Tech.+CSE+student+at+IIT+Kanpur;All+India+Rank+-+460+in+GATE+CS+2025;Systems+%26+Security+Enthusiast)](https://git.io/typing-svg)
 
 <!-- 
 
@@ -16,7 +16,7 @@ HTML Code of Typing SVG
 
  -->
 
-<!--
+
 
 <br>
 
